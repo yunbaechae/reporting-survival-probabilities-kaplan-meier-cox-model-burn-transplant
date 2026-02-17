@@ -19,7 +19,7 @@ This assignment focused on reproducible reporting of survival probabilities usin
   (Original .Rmd source file is no longer available, but the PDF preserves all survival curves, model summaries, plots, and explanations.)
 
 ## Files
-- [Yunbae_Chae_42809037 (3).pdf](Yunbae_Chae_42809037 (3).pdf) → Full report with Kaplan-Meier curves, Cox PH results, and visualizations  
+- [Yunbae_Chae_42809037.pdf](Yunbae_Chae_42809037.pdf) → Full report with Kaplan-Meier curves, Cox PH results, and visualizations  
 
 ## Date
 2023
